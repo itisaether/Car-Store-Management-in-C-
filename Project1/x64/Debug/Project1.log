@@ -1,0 +1,8 @@
+﻿  carstore.cpp
+D:\Desktop\УЧЕБА 3 СЕМЕСТР\ООП\ЛАБА 6\Project1\Project1\carstore.cpp(293,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\УЧЕБА 3 СЕМЕСТР\ООП\ЛАБА 6\Project1\Project1\carstore.cpp(294,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ЛАБА 6.cpp
+D:\Desktop\УЧЕБА 3 СЕМЕСТР\ООП\ЛАБА 6\Project1\Project1\ЛАБА 6.cpp(13,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+carstore.obj : error LNK2019: unresolved external symbol "public: void __cdecl CarC::read_from(class std::basic_ifstream<char,struct std::char_traits<char> > &)" (?read_from@CarC@@QEAAXAEAV?$basic_ifstream@DU?$char_traits@D@std@@@std@@@Z) referenced in function "public: void __cdecl carstore::read_ocars_from_file(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?read_ocars_from_file@carstore@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+D:\Desktop\УЧЕБА 3 СЕМЕСТР\ООП\ЛАБА 6\Project1\x64\Debug\Project1.exe : fatal error LNK1120: 1 unresolved externals
